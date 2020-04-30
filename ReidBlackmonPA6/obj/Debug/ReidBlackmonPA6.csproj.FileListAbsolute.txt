@@ -1,0 +1,14 @@
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\bin\Debug\ReidBlackmonPA6.exe.config
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\bin\Debug\ReidBlackmonPA6.exe
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\bin\Debug\ReidBlackmonPA6.pdb
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.csprojAssemblyReference.cache
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.frmCWID.resources
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.Properties.Resources.resources
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.csproj.GenerateResource.cache
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.exe
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.pdb
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.frmMain.resources
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.csproj.CopyComplete
+C:\Users\black\source\repos\ReidBlackmonPA6\ReidBlackmonPA6\obj\Debug\ReidBlackmonPA6.frmEdit.resources
